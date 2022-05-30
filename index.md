@@ -15,5 +15,5 @@
 - 勉強するときにいつも聞いてる動画。  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vr9dLvJs7VE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- 自分のTwitter
+- 自分のTwitter  
 <a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/No__narne_?ref_src=twsrc%5Etfw">Tweets by No__narne_</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
