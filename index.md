@@ -9,8 +9,8 @@
 - プログラミング勉強中
 
 ## 埋め込み用
-ディスコードで使ってるお気に入りのアイコン。  
+- ディスコードで使ってるお気に入りのアイコン。  
 ![アイコン](55b294b7ae0c8ffc34e669fd22c7b5b1.jpg)
 
-勉強するときにいつも聞いてる動画。  
+- 勉強するときにいつも聞いてる動画。  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vr9dLvJs7VE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
